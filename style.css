@@ -1,0 +1,26 @@
+body {
+    text-align: center
+}
+
+.menu {
+    list-style: none;
+    position: absolute;
+    z-index: 10;
+    padding-left: 590px;
+}
+
+#mainpic {
+    width: 200px;
+}
+
+#Welcome {
+    height: 600px;
+    background: linear-gradient(#8fcbe3 0%, #65fcac 100%);
+}
+
+.line {
+    width: 70px;
+    height: 6px;
+    background-color: black;
+    margin: 8px auto;
+}
